@@ -36,8 +36,8 @@ function App() {
     </Routes>
     
     
-    {/* <img className="stiker1" src={`https://cdn.livechatinc.com/cloud/?uri=https%3A%2F%2Fcdn.livechat-files.com%2Fapi%2Ffile%2Flc%2Fmain%2F13384410%2F0%2Fec%2Fb37525d1bea119850c3bbfa931116fd7.png`}/>
-    <img className="stiker2" src={`https://cdn.livechatinc.com/cloud/?uri=https%3A%2F%2Fcdn.livechat-files.com%2Fapi%2Ffile%2Flc%2Fmain%2F12683781%2F0%2Fec%2Fe7a5c01a6f38e5e8f42e9de4f217f7ff.png`}/> */}
+    <img className="stiker1" src={`https://cdn.livechatinc.com/cloud/?uri=https%3A%2F%2Fcdn.livechat-files.com%2Fapi%2Ffile%2Flc%2Fmain%2F13384410%2F0%2Fec%2Fb37525d1bea119850c3bbfa931116fd7.png`}/>
+    <img className="stiker2" src={`https://cdn.livechatinc.com/cloud/?uri=https%3A%2F%2Fcdn.livechat-files.com%2Fapi%2Ffile%2Flc%2Fmain%2F12683781%2F0%2Fec%2Fe7a5c01a6f38e5e8f42e9de4f217f7ff.png`}/>
     <footer className="footer">
       <p>GAME PROVIDER</p>
       <img src={`https://files.sitestatic.net/images/footer_pwrdby_idr.png?v=1`}/>
